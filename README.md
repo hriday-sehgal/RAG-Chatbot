@@ -176,9 +176,10 @@ How It Works:
 3. LLM Response Generation: The bot then passes the query and retrieved data into gemma-2b-it, which generates a coherent, context-aware response by combining both the query and the retrieved information.
 
 
-License:
+## Copyright Disclaimer and License:
+Copyright © 2025 Hriday Sehgal. All rights reserved.
 
-This project and all associated code are the exclusive property of the company and the owner. Unauthorized copying, modification, distribution, or use of this project or any of its components is strictly prohibited without explicit written permission from the owner.
+This project and its source code are the proprietary intellectual property of Hriday Sehgal. Unauthorized copying, modification, distribution, or reproduction in any form without explicit permission is strictly prohibited.
 
 For inquiries regarding usage permissions, please contact:
 
